@@ -1,0 +1,14 @@
+C:\Users\Parker Sims\Repos\C-SharpPracticeChallenges\C-SharpPracticeChallenges\bin\Debug\net9.0\C-SharpPracticeChallenges.exe
+C:\Users\Parker Sims\Repos\C-SharpPracticeChallenges\C-SharpPracticeChallenges\bin\Debug\net9.0\C-SharpPracticeChallenges.deps.json
+C:\Users\Parker Sims\Repos\C-SharpPracticeChallenges\C-SharpPracticeChallenges\bin\Debug\net9.0\C-SharpPracticeChallenges.runtimeconfig.json
+C:\Users\Parker Sims\Repos\C-SharpPracticeChallenges\C-SharpPracticeChallenges\bin\Debug\net9.0\C-SharpPracticeChallenges.dll
+C:\Users\Parker Sims\Repos\C-SharpPracticeChallenges\C-SharpPracticeChallenges\bin\Debug\net9.0\C-SharpPracticeChallenges.pdb
+C:\Users\Parker Sims\Repos\C-SharpPracticeChallenges\C-SharpPracticeChallenges\obj\Debug\net9.0\C-SharpPracticeChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Parker Sims\Repos\C-SharpPracticeChallenges\C-SharpPracticeChallenges\obj\Debug\net9.0\C-SharpPracticeChallenges.AssemblyInfoInputs.cache
+C:\Users\Parker Sims\Repos\C-SharpPracticeChallenges\C-SharpPracticeChallenges\obj\Debug\net9.0\C-SharpPracticeChallenges.AssemblyInfo.cs
+C:\Users\Parker Sims\Repos\C-SharpPracticeChallenges\C-SharpPracticeChallenges\obj\Debug\net9.0\C-SharpPracticeChallenges.csproj.CoreCompileInputs.cache
+C:\Users\Parker Sims\Repos\C-SharpPracticeChallenges\C-SharpPracticeChallenges\obj\Debug\net9.0\C-SharpPracticeChallenges.dll
+C:\Users\Parker Sims\Repos\C-SharpPracticeChallenges\C-SharpPracticeChallenges\obj\Debug\net9.0\refint\C-SharpPracticeChallenges.dll
+C:\Users\Parker Sims\Repos\C-SharpPracticeChallenges\C-SharpPracticeChallenges\obj\Debug\net9.0\C-SharpPracticeChallenges.pdb
+C:\Users\Parker Sims\Repos\C-SharpPracticeChallenges\C-SharpPracticeChallenges\obj\Debug\net9.0\C-SharpPracticeChallenges.genruntimeconfig.cache
+C:\Users\Parker Sims\Repos\C-SharpPracticeChallenges\C-SharpPracticeChallenges\obj\Debug\net9.0\ref\C-SharpPracticeChallenges.dll
