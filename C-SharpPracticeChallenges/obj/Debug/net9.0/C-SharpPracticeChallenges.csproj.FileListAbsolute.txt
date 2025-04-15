@@ -12,3 +12,4 @@ C:\Users\Parker Sims\Repos\C-SharpPracticeChallenges\C-SharpPracticeChallenges\o
 C:\Users\Parker Sims\Repos\C-SharpPracticeChallenges\C-SharpPracticeChallenges\obj\Debug\net9.0\C-SharpPracticeChallenges.pdb
 C:\Users\Parker Sims\Repos\C-SharpPracticeChallenges\C-SharpPracticeChallenges\obj\Debug\net9.0\C-SharpPracticeChallenges.genruntimeconfig.cache
 C:\Users\Parker Sims\Repos\C-SharpPracticeChallenges\C-SharpPracticeChallenges\obj\Debug\net9.0\ref\C-SharpPracticeChallenges.dll
+C:\Users\Parker Sims\Repos\C-SharpPracticeChallenges\C-SharpPracticeChallenges\obj\Debug\net9.0\C-SharpPracticeChallenges.sourcelink.json
